@@ -6,7 +6,9 @@
 
 ## Github?
 
-[yoga on github](https://github.com/ayaderaghul/yoga)
+[yoga repo on github](https://github.com/ayaderaghul/yoga)
+
+[deployed on glitch](https://foremost-abalone-linen.glitch.me/)
 
 # TODO 🚧
 
