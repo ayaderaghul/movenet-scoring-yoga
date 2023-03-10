@@ -8,6 +8,11 @@
 
 [yoga on github](https://github.com/ayaderaghul/yoga)
 
+# TODO 🚧
+
+- Choose new yoga poses 🚀 
+
+
 ## Try this next 🏗️
 
 
