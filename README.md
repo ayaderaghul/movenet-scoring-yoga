@@ -12,8 +12,9 @@
 
 # TODO 🚧
 
-- Choose new yoga poses 🚀 
+- Add more yoga poses 🚀 
 
+- Store score for each pose over time
 
 ## Try this next 🏗️
 
